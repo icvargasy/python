@@ -29,7 +29,7 @@ def get_result(answer):
     else :
         return False
 
-print("Do you like programing?")
+print("Do you like programing? ")
 print("a. Yes")
 print("b. No")
 result = input("Enter a or b: ")
